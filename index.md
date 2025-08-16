@@ -9,13 +9,13 @@ Professor of Law & Technology (University of Lausanne).
 Leads the **Legal Design & Code Lab**. 
 
 <div class="pillbar">
-  <a class="pill" href="teaching/">
+   <a class="pill" href="https://wp.unil.ch/legaldesignandcodelab/teaching/" target="_blank" rel="noopener">
     <span>🎓</span><span>Teaching</span>
   </a>
   <a class="pill" href="https://scholar.google.com/citations?user=3dqp8fMAAAAJ&hl=en" target="_blank" rel="noopener">
     <span>🔬</span><span>Research</span>
   </a>
-  <a class="pill" href="https://wp.unil.ch/legaldesignandcodelab/researchers/" target="_blank" rel="noopener">
+  <a class="pill" href="https://wp.unil.ch/legaldesignandcodelab/members/" target="_blank" rel="noopener">
     <span>👥</span><span>Team</span>
   </a>
 </div>
