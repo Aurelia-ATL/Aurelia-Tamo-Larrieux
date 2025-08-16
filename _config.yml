@@ -1,16 +1,3 @@
----
-layout: default
 title: Aurelia Tamò-Larrieux
----
-
-# Aurelia Tamò-Larrieux
-
-Professor of Law & Technology (University of Lausanne).  
-Leads the **Legal Design & Code Lab**. 
-
-- 📘 Book: *AI and Law: How Automation is Changing the Law* (Routledge)
-- 🧪 Lab: Legal Design & Code Lab (https://wp.unil.ch/legaldesignandcodelab/)
-- 🔍 Teaching: Law and Computation (EPFL), Digital Transformation of Law (UNIL), AI Governance (UNIL), AI Governance & Regulatory Frameworks (EPFL/UNIL), Legal Challenges in the Digital Economy (UNIL)
-- 📘 Research: Data and AI regulation and governance, legal automation, access to justice and legal design, data access, evidenced-based policy making, trust in automation
-- 🏛️ Policy: AI governance in Switzerland
-- ✉️ Contact: aurelia.tamo-larrieux(at)@unil.ch
+description: AI governance • legal design • access to justice
+theme: jekyll-theme-minimal
